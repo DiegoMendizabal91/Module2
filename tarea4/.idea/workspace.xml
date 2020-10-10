@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b3d233-c264-4201-bccb-7131b0bae624" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tarea1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/IsBalancedTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/depthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/findNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/heightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/isBalancedNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea5/test/getAlphabeticalMoviesAboveRatingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea5/test/getAlphabeticalMoviesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea5/test/removeAllRatingsBelowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/tarea6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/test/IsHamiltonianPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/test/MinDistanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/test/nodesWithinDistanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/out/production/tarea1/HtmlReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/out/production/tarea1/HtmlTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/out/production/tarea1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea1/out/production/tarea1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea6/out/production/tarea6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea6/out/production/tarea6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea6/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +19,12 @@
     <session id="1166522523">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.609" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -88,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
@@ -100,8 +78,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/IsBalancedTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="840">
+              <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/isBalancedNodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            <state relative-caret-position="476">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/heightTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="61" column="114" lean-forward="true" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+            <state relative-caret-position="1003">
+              <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/depthTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
+            <state relative-caret-position="306">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -145,8 +126,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/findNodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+            <state relative-caret-position="1411">
+              <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,10 +170,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="740" />
-    <option name="y" value="306" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="996" />
-    <option name="height" value="700" />
+    <option name="height" value="627" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +202,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -230,7 +211,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601596434085" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601610410303" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -353,12 +334,14 @@
     <history-entry file="isBalancedNodeTest - 2020.10.01 at 19h 49m 47s.xml">
       <configuration name="isBalancedNodeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IsBalancedTreeTest - 2020.10.01 at 19h 53m 55s.xml">
+      <configuration name="IsBalancedTreeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18603411" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -368,7 +351,7 @@
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,20 +444,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/findNodeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        <state relative-caret-position="1139">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/depthTest.java">
+    <entry file="file://$PROJECT_DIR$/test/isBalancedNodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="476">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -483,46 +474,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/heightTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="61" column="114" lean-forward="true" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+        <state relative-caret-position="1003">
+          <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/test/depthTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/isBalancedNodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/test/findNodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="1411">
+          <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
           <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/IsBalancedTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="840">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0927367a-fa1e-45ff-b7f4-1338a095f705" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tarea1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/test/depthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/test/findNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/test/heightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea4/test/isBalancedNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/getAlphabeticalMoviesAboveRatingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/getAlphabeticalMoviesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/removeAllRatingsBelowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/tarea6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/test/IsHamiltonianPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/test/MinDistanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tarea6/test/nodesWithinDistanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/out/production/tarea1/HtmlReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/out/production/tarea1/HtmlTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tarea1/out/production/tarea1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea1/out/production/tarea1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea6/out/production/tarea6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea6/out/production/tarea6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarea6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tarea6/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,10 +19,11 @@
     <session id="970009019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.264" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.611" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -74,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="969">
               <caret line="57" column="89" selection-start-line="57" selection-start-column="89" selection-end-line="57" selection-end-column="89" />
             </state>
           </provider>
@@ -84,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/src/UserMovieRating.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -102,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/src/MovieRatingsProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -111,13 +90,9 @@
         <entry file="file://$PROJECT_DIR$/test/removeAllRatingsBelowTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#293#302#0" expanded="true" />
-                <element signature="e#453#462#0" expanded="true" />
-                <element signature="e#618#627#0" expanded="true" />
-                <element signature="e#854#863#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,14 +101,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/getAlphabeticalMoviesAboveRatingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-289">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="17">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#303#312#0" expanded="true" />
-                <element signature="e#463#472#0" expanded="true" />
-                <element signature="e#628#637#0" expanded="true" />
-                <element signature="e#864#873#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,12 +114,9 @@
         <entry file="file://$PROJECT_DIR$/test/getAlphabeticalMoviesTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="25" lean-forward="true" selection-end-line="6" selection-end-column="25" />
+              <caret line="6" column="25" selection-end-line="6" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#292#301#0" expanded="true" />
-                <element signature="e#452#461#0" expanded="true" />
-                <element signature="e#617#626#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,10 +157,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="740" />
-    <option name="y" value="306" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="996" />
-    <option name="height" value="700" />
+    <option name="height" value="627" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,8 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,14 +179,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601596383973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601610410235" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -357,9 +325,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -428,30 +395,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/getAlphabeticalMoviesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="969">
           <caret line="57" column="89" selection-start-line="57" selection-start-column="89" selection-end-line="57" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/getAlphabeticalMoviesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/UserMovieRating.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#292#301#0" expanded="true" />
-            <element signature="e#452#461#0" expanded="true" />
-            <element signature="e#617#626#0" expanded="true" />
-          </folding>
+        <state>
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -462,30 +416,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserMovieRating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MovieRatingsProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/getAlphabeticalMoviesAboveRatingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="17">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#303#312#0" expanded="true" />
-            <element signature="e#463#472#0" expanded="true" />
-            <element signature="e#628#637#0" expanded="true" />
-            <element signature="e#864#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/getAlphabeticalMoviesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -493,13 +446,9 @@
     <entry file="file://$PROJECT_DIR$/test/removeAllRatingsBelowTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#293#302#0" expanded="true" />
-            <element signature="e#453#462#0" expanded="true" />
-            <element signature="e#618#627#0" expanded="true" />
-            <element signature="e#854#863#0" expanded="true" />
           </folding>
         </state>
       </provider>
